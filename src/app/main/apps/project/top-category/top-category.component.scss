@@ -1,0 +1,21 @@
+.dy-header {
+    align-items: stretch !important;
+    padding-bottom: 0 !important;
+}
+
+.selected-project {
+    align-items: stretch !important;
+    background: rgba(0, 0, 0, 0.12);
+    color: #ffffff;
+    padding: 8px 16px;
+    height: 40px;
+    line-height: 24px;
+    font-size: 16px;
+    border-radius: 8px 0 0 0;
+}
+
+.project-selector {
+    margin-left: 1px;
+    background: rgba(0, 0, 0, 0.12);
+    border-radius: 0 8px 0 0;
+}
